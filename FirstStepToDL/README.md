@@ -51,6 +51,7 @@ F1-score：在所有情感类别上，模型的 F1-score 在 0.85 到 0.92 之�
 ![图片1](https://github.com/user-attachments/assets/37071814-28d4-4e42-a51b-c3ea878a45cb)
 
 6.2提取特征：
+
 ![图片2](https://github.com/user-attachments/assets/767fcfb8-0add-4d77-abbf-447280f7f178)
 
 6.3单卡训练：
