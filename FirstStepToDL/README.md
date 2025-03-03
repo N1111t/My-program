@@ -48,31 +48,45 @@ F1-score：在所有情感类别上，模型的 F1-score 在 0.85 到 0.92 之�
 六、使用BaseModel完成的初步训练
 6.1数据准备：
 ![图片1](https://github.com/user-attachments/assets/37071814-28d4-4e42-a51b-c3ea878a45cb)
+
 6.2提取特征：
 ![图片2](https://github.com/user-attachments/assets/767fcfb8-0add-4d77-abbf-447280f7f178)
+
 6.3单卡训练：
 ![图片3](https://github.com/user-attachments/assets/4f1bd6d7-6ed6-4dc7-9f7b-89a33d33e278)
+
 6.4评估：
 ![图片4](https://github.com/user-attachments/assets/ff128d2a-3383-4c1d-a565-6e57ba78f4d1)
+
 6.5预测：
 ![图片5](https://github.com/user-attachments/assets/096b3f00-92ce-40dd-b95d-50ad51674da6)
 
 七、四种模型的训练
 ![图片7](https://github.com/user-attachments/assets/4244d217-5b21-41ef-ad34-de3f321d241a)
+
 ![图片8](https://github.com/user-attachments/assets/945e7f87-8613-4f20-8cbe-b5bdb638c3eb)
+
 ![图片9](https://github.com/user-attachments/assets/5be97eb2-20ee-4a2d-83d8-5c8cb5d196b6)
+
 ![图片10](https://github.com/user-attachments/assets/1923309e-6042-4362-ae93-0be0dd3621c4)
+
 
 八、四种模型的预测
 ![图片11](https://github.com/user-attachments/assets/07e7a7b9-cc1f-4347-826d-311a6970e016)
+
 ![图片12](https://github.com/user-attachments/assets/58c5dcbd-b71a-42e2-a714-0cad19764991)
+
 ![图片13](https://github.com/user-attachments/assets/597e9821-9f85-46ad-a1c5-801628e5539d)
+
 ![图片14](https://github.com/user-attachments/assets/60ac35b2-d063-4df2-9917-f3bb7bb0ae68)
 
 九、四种模型对自己上传的语音的预测
 ![图片18](https://github.com/user-attachments/assets/9f2d56ac-21a6-4dec-accd-49c95b6f8495)
+
 ![图片17](https://github.com/user-attachments/assets/647d5a53-ec66-423d-8161-5fda2bd50ca5)
+
 ![图片16](https://github.com/user-attachments/assets/c6896049-ecaf-41f3-ba34-661a8cb48161)
+
 ![图片15](https://github.com/user-attachments/assets/6fc00682-08ba-4742-849f-00dd5e21dfad)
 
 十、工作问题的提出与解决
