@@ -47,7 +47,9 @@ F1-score：在所有情感类别上，模型的 F1-score 在 0.85 到 0.92 之�
 结合更多上下文信息（如语境、语音内容等）来进一步提高识别的准确性。
 
 六、使用BaseModel完成的初步训练
+
 6.1数据准备：
+
 ![图片1](https://github.com/user-attachments/assets/37071814-28d4-4e42-a51b-c3ea878a45cb)
 
 6.2提取特征：
@@ -55,12 +57,15 @@ F1-score：在所有情感类别上，模型的 F1-score 在 0.85 到 0.92 之�
 ![图片2](https://github.com/user-attachments/assets/767fcfb8-0add-4d77-abbf-447280f7f178)
 
 6.3单卡训练：
+
 ![图片3](https://github.com/user-attachments/assets/4f1bd6d7-6ed6-4dc7-9f7b-89a33d33e278)
 
 6.4评估：
+
 ![图片4](https://github.com/user-attachments/assets/ff128d2a-3383-4c1d-a565-6e57ba78f4d1)
 
 6.5预测：
+
 ![图片5](https://github.com/user-attachments/assets/096b3f00-92ce-40dd-b95d-50ad51674da6)
 
 七、四种模型的训练
