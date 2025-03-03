@@ -79,6 +79,7 @@ F1-score：在所有情感类别上，模型的 F1-score 在 0.85 到 0.92 之�
 
 
 八、四种模型的预测
+
 ![图片11](https://github.com/user-attachments/assets/07e7a7b9-cc1f-4347-826d-311a6970e016)
 
 ![图片12](https://github.com/user-attachments/assets/58c5dcbd-b71a-42e2-a714-0cad19764991)
@@ -88,6 +89,7 @@ F1-score：在所有情感类别上，模型的 F1-score 在 0.85 到 0.92 之�
 ![图片14](https://github.com/user-attachments/assets/60ac35b2-d063-4df2-9917-f3bb7bb0ae68)
 
 九、四种模型对自己上传的语音的预测
+
 ![图片18](https://github.com/user-attachments/assets/9f2d56ac-21a6-4dec-accd-49c95b6f8495)
 
 ![图片17](https://github.com/user-attachments/assets/647d5a53-ec66-423d-8161-5fda2bd50ca5)
